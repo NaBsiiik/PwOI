@@ -1,4 +1,4 @@
-# Kod do LABORATORIUM 1
+# Kod do Laboratorium 1
 
 from scipy.stats import norm
 from csv import writer
