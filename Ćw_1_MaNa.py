@@ -1,0 +1,1 @@
+print("Witam w Ćwiczeniu 1")
