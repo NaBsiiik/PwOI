@@ -1,3 +1,5 @@
+# Kod do Laboratorium 1
+
 from scipy.stats import norm
 from csv import writer
 import numpy as np
