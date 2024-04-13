@@ -1,22 +1,56 @@
 from scipy.stats import norm
 from csv import writer
+import numpy as np
 
-def generate_points(num_points:int = 2000):
-    distribution_x = norm(loc=0, scale=20)
-    distribution_y = norm(loc=0, scale=200)
-    distribution_z = norm(loc=0.2, scale=0.05)
-
+def generate_points_flat_horizontal(num_points: int = 2000, width: float = 100, length: float = 100, height: float = 10):
+    distribution_x = norm(loc=0, scale=width)
+    distribution_y = norm(loc=0, scale=length)
 
     x = distribution_x.rvs(size=num_points)
     y = distribution_y.rvs(size=num_points)
-    z = distribution_z.rvs(size=num_points)
+    z = np.random.uniform(0, height, num_points)
 
     points = zip(x, y, z)
     return points
 
-if __name__ == '__main__':
-    cloud_points = generate_points(2000)
-    with open('CsvData.xyz', 'w', encoding='utf-8', newline='\n') as csvfile:
+def generate_points_flat_vertical(num_points: int = 2000, width: float = 100, height: float = 100, length: float = 10):
+    distribution_x = norm(loc=0, scale=width)
+    distribution_z = norm(loc=0, scale=height)
+
+    x = distribution_x.rvs(size=num_points)
+    z = distribution_z.rvs(size=num_points)
+    y = np.random.uniform(0, length, num_points)
+
+    points = zip(x, y, z)
+    return points
+
+def generate_points_cylindrical(num_points: int = 2000, radius: float = 50, height: float = 100):
+    angle = np.random.uniform(0, 2 * np.pi, num_points)
+    radius_sample = np.random.uniform(0, radius, num_points)
+    height_sample = np.random.uniform(0, height, num_points)
+
+    x = radius_sample * np.cos(angle)
+    y = radius_sample * np.sin(angle)
+    z = height_sample
+
+    points = zip(x, y, z)
+    return points
+
+def save_points_to_csv(points, filename):
+    with open(filename, 'w', encoding='utf-8', newline='\n') as csvfile:
         csvwriter = writer(csvfile)
-        for p in cloud_points:
+        for p in points:
             csvwriter.writerow(p)
+
+if __name__ == '__main__':
+    # a. płaska pozioma powierzchnia o ograniczonej szerokości i długości
+    cloud_points = generate_points_flat_horizontal(2000, width=100, length=100, height=10)
+    save_points_to_csv(cloud_points, 'CsvData_flat_horizontal.xyz')
+
+    # b. płaska pionowa powierzchnia o ograniczonej szerokości i wysokości
+    cloud_points = generate_points_flat_vertical(2000, width=100, height=100, length=10)
+    save_points_to_csv(cloud_points, 'CsvData_flat_vertical.xyz')
+
+    # c. powierzchnia cylindryczna o zadanym promieniu i ograniczonej wysokości
+    cloud_points = generate_points_cylindrical(2000, radius=40, height=200)
+    save_points_to_csv(cloud_points, 'CsvData_cylindrical.xyz')
