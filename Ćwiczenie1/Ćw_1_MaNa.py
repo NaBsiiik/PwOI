@@ -66,11 +66,11 @@ if __name__ == '__main__':
     save_points_to_csv(cloud_points, 'CsvData_flat_vertical.xyz')
 
     # c. powierzchnia cylindryczna - pozioma o zadanym promieniu i ograniczonej wysokości
-    cloud_points = generate_points_cylindrical_horizontal(2000, radius=50, length=150)
+    cloud_points = generate_points_cylindrical_horizontal(2000, radius=20, length=200)
     save_points_to_csv(cloud_points, 'CylindricalData_horizontal.xyz')
 
     # d. powierzchnia cylindryczna - pionowa o zadanym promieniu i ograniczonej wysokości
-    cloud_points = generate_points_cylindrical_vertical(2000, radius=50, height=150)
+    cloud_points = generate_points_cylindrical_vertical(2000, radius=20, height=200)
     save_points_to_csv(cloud_points, 'CylindricalData_vertical.xyz')
 
 
