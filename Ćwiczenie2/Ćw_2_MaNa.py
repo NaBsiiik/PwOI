@@ -186,7 +186,7 @@ def fit_plane_and_check_type(points):
 filenames = ['CsvData_flat_horizontal.xyz', 'CsvData_flat_vertical.xyz', 'CylindricalData_horizontal.xyz', 'CylindricalData_vertical.xyz']
 
 parameter_combinations = [
-    (0.001, 5), (0.001, 10), (0.001, 20),
+    (0.0001, 5), (0.001, 10), (0.001, 20),
     (0.005, 5), (0.005, 10), (0.005, 20),
     (0.01, 5), (0.01, 10), (0.01, 20),
     (0.05, 5), (0.05, 10), (0.05, 20),
