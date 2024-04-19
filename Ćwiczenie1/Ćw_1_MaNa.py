@@ -59,18 +59,18 @@ def save_points_to_csv(points, filename):
 if __name__ == '__main__':
     # a. płaska pozioma powierzchnia o ograniczonej szerokości i długości
     cloud_points = generate_points_flat_horizontal(2000, width=100, length=100, height=1)
-    save_points_to_csv(cloud_points, 'CsvData_flat_horizontal.xyz')
+    save_points_to_csv(cloud_points, 'Horizontal_flat.xyz')
 
     # b. płaska pionowa powierzchnia o ograniczonej szerokości i wysokości
     cloud_points = generate_points_flat_vertical(2000, width=100, height=100, length=1)
-    save_points_to_csv(cloud_points, 'CsvData_flat_vertical.xyz')
+    save_points_to_csv(cloud_points, 'Vertical_flat.xyz')
 
     # c. powierzchnia cylindryczna - pozioma o zadanym promieniu i ograniczonej wysokości
     cloud_points = generate_points_cylindrical_horizontal(2000, radius=20, length=200)
-    save_points_to_csv(cloud_points, 'CylindricalData_horizontal.xyz')
+    save_points_to_csv(cloud_points, 'Horizontal_cylindrical.xyz')
 
     # d. powierzchnia cylindryczna - pionowa o zadanym promieniu i ograniczonej wysokości
     cloud_points = generate_points_cylindrical_vertical(2000, radius=20, height=200)
-    save_points_to_csv(cloud_points, 'CylindricalData_vertical.xyz')
+    save_points_to_csv(cloud_points, 'Vertical_cylindrical.xyz')
 
 
