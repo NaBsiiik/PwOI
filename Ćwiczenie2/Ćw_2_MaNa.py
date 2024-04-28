@@ -81,6 +81,7 @@ def find_clusters(points, k=3):
     labels = kmeans.labels_
     return cluster_centers, labels
 
+
 """
 Zadanie 4: Dopasowanie płaszczyzny za pomocą algorytmu RANSAC dla każdej chmury punktów.
 Wypisać na ekranie współrzędne wektora normalnego do znalezionej płaszczyzny i określić, czy dana chmura:
@@ -157,7 +158,7 @@ for filename in filenames:
 
     points = load_xyz_file2(filename)
 
-    # Dopasowanie płaszczyzny za pomocą algorytmu RANSAC
+    # Dopasowanie płaszczyzny za pomocą algorytmu z pakietu pyransac3d
     plane_model = pyrsc.Plane()
     best_eq, best_inliers = plane_model.fit(points, 0.01)
 
