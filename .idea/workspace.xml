@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41be4960-4d9a-402c-8684-ec12601459f5" name="Changes" comment="Git">
+      <change beforePath="$PROJECT_DIR$/Ćwiczenie3/Ćw_3_MaNa.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ćwiczenie3/Ćw_3_MaNa.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;NaBsiiik&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ea854dfa-4a77-4d80-9a06-b4214b5275e3" />
+        <option name="url" value="https://github.com/NaBsiiik/PwOI.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2f2U8XvAuYmtiCwQy6SB8099vQK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.cw2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ćw_1_MaNa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ćw_2_MaNa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ćw_2_MaNa_v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ćw_2_MaNa_zad6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ćw_2_pkt_1_MaNa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ćw_3_MaNa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ćw1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mateu/PycharmProjects/PwOI/Ćwiczenie3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mateu\PycharmProjects\PwOI\Ćwiczenie2" />
+      <recent name="C:\Users\mateu\PycharmProjects\PwOI" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mateu\PycharmProjects\PwOI" />
+      <recent name="C:\Users\mateu\PycharmProjects\PwOI\Ćwiczenie2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Ćw_3_MaNa">
+    <configuration name="Ćw_1_MaNa" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PwOI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (PwOI)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ćwiczenie1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ćwiczenie1/Ćw_1_MaNa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ćw_2_MaNa" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PwOI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ćwiczenie2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ćwiczenie2/Ćw_2_MaNa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ćw_3_MaNa" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PwOI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ćwiczenie3/Ćw_3_MaNa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Ćw_3_MaNa" />
+      <item itemvalue="Python.Ćw_1_MaNa" />
+      <item itemvalue="Python.Ćw_2_MaNa" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41be4960-4d9a-402c-8684-ec12601459f5" name="Changes" comment="" />
+      <created>1712998507493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712998507493</updated>
+      <workItem from="1712998508636" duration="335000" />
+      <workItem from="1712999094927" duration="2873000" />
+      <workItem from="1713002183096" duration="2364000" />
+      <workItem from="1713096162296" duration="8711000" />
+      <workItem from="1713107029986" duration="5187000" />
+      <workItem from="1713112261228" duration="107000" />
+      <workItem from="1713195970940" duration="6088000" />
+      <workItem from="1713285054127" duration="1916000" />
+      <workItem from="1713520337720" duration="325000" />
+      <workItem from="1713520680209" duration="126000" />
+      <workItem from="1713536417734" duration="1358000" />
+      <workItem from="1714302625609" duration="619000" />
+      <workItem from="1714311921718" duration="2185000" />
+      <workItem from="1714314156570" duration="468000" />
+      <workItem from="1715268568460" duration="296000" />
+      <workItem from="1715275501472" duration="75000" />
+      <workItem from="1715275577800" duration="2193000" />
+      <workItem from="1715277791593" duration="2201000" />
+      <workItem from="1715281575114" duration="156000" />
+      <workItem from="1715281733080" duration="110000" />
+      <workItem from="1715281864659" duration="115000" />
+      <workItem from="1715281992636" duration="4087000" />
+      <workItem from="1715288412970" duration="737000" />
+      <workItem from="1715539501445" duration="335000" />
+      <workItem from="1715539853355" duration="934000" />
+    </task>
+    <task id="LOCAL-00001" summary="guit">
+      <option name="closed" value="true" />
+      <created>1712999840374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712999840374</updated>
+    </task>
+    <task id="LOCAL-00002" summary="guit">
+      <option name="closed" value="true" />
+      <created>1713000162453</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713000162453</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Laboratorium 1 - generacja chumry punktów">
+      <option name="closed" value="true" />
+      <created>1713000234060</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713000234060</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Laboratorium 1 - generacja chumry punktów">
+      <option name="closed" value="true" />
+      <created>1713000350434</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713000350434</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Laboratorium 2">
+      <option name="closed" value="true" />
+      <created>1713000363732</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713000363732</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Laboratorium 2">
+      <option name="closed" value="true" />
+      <created>1713000395439</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713000395439</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Laboratorium 1">
+      <option name="closed" value="true" />
+      <created>1713001447850</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713001447850</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Programowanie w Obliczeniach Inteligentnych">
+      <option name="closed" value="true" />
+      <created>1713001606991</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713001606991</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Git">
+      <option name="closed" value="true" />
+      <created>1713003391253</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713003391253</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Git">
+      <option name="closed" value="true" />
+      <created>1713004313195</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713004313195</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Git">
+      <option name="closed" value="true" />
+      <created>1713004367262</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1713004367262</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Git">
+      <option name="closed" value="true" />
+      <created>1713004501240</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1713004501240</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Git">
+      <option name="closed" value="true" />
+      <created>1713004515535</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1713004515535</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Git">
+      <option name="closed" value="true" />
+      <created>1713106377499</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713106377500</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Git">
+      <option name="closed" value="true" />
+      <created>1713106384973</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1713106384973</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Git">
+      <option name="closed" value="true" />
+      <created>1713106494772</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713106494772</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Git">
+      <option name="closed" value="true" />
+      <created>1713106560664</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1713106560664</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Git">
+      <option name="closed" value="true" />
+      <created>1713112231819</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1713112231819</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Git">
+      <option name="closed" value="true" />
+      <created>1713112361652</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1713112361652</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Git">
+      <option name="closed" value="true" />
+      <created>1713537666587</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1713537666587</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Git">
+      <option name="closed" value="true" />
+      <created>1714312804878</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1714312804878</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Git">
+      <option name="closed" value="true" />
+      <created>1714313070683</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1714313070683</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Git">
+      <option name="closed" value="true" />
+      <created>1714313241067</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1714313241067</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Git">
+      <option name="closed" value="true" />
+      <created>1715268689592</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1715268689592</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="guit" />
+    <MESSAGE value="Laboratorium 1 - generacja chumry punktów" />
+    <MESSAGE value="Laboratorium 2" />
+    <MESSAGE value="Laboratorium 1" />
+    <MESSAGE value="Programowanie w Obliczeniach Inteligentnych" />
+    <MESSAGE value="Git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Git" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PwOI$w_2_pkt_1_MaNa.coverage" NAME="Ćw_2_pkt_1_MaNa Coverage Results" MODIFIED="1713096855993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ćwiczenie2" />
+    <SUITE FILE_PATH="coverage/PwOI$w_1_MaNa.coverage" NAME="Ćw_1_MaNa Coverage Results" MODIFIED="1714313116814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ćwiczenie1" />
+    <SUITE FILE_PATH="coverage/PwOI$w1.coverage" NAME="ćw1 Coverage Results" MODIFIED="1712999633503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PwOI$w_2_MaNa_v2.coverage" NAME="Ćw_2_MaNa_v2 Coverage Results" MODIFIED="1713284803129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ćwiczenie2" />
+    <SUITE FILE_PATH="coverage/PwOI$w_2_MaNa_zad6.coverage" NAME="Ćw_2_MaNa_zad6 Coverage Results" MODIFIED="1713284590278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ćwiczenie2" />
+    <SUITE FILE_PATH="coverage/PwOI$w_2_MaNa.coverage" NAME="Ćw_2_MaNa Coverage Results" MODIFIED="1714314243921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ćwiczenie2" />
+    <SUITE FILE_PATH="coverage/PwOI$w_3_MaNa.coverage" NAME="Ćw_3_MaNa Coverage Results" MODIFIED="1715540731001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PwOI$cw2.coverage" NAME="cw2 Coverage Results" MODIFIED="1713106290804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ćwiczenie1" />
+  </component>
+</project>
