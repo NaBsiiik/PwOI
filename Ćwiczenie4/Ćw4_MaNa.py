@@ -11,10 +11,10 @@ import seaborn as sns
 
 # Sekcja 2: Wczytywanie danych z pliku csv
 # Wczytanie zestawów danych
-df_drewno = pd.read_csv('/content/features_drewno.csv')
-df_tynk = pd.read_csv('/content/features_tynk.csv')
-df_gres = pd.read_csv('/content/features_gres.csv')
-df_kamien = pd.read_csv('/content/features_kamien.csv')
+df_drewno = pd.read_csv(r"C:\Users\mateu\PycharmProjects\PwOI\Ćwiczenie4\features_drewno.csv")
+df_tynk = pd.read_csv(r"C:\Users\mateu\PycharmProjects\PwOI\Ćwiczenie3\features_tynk.csv")
+df_gres = pd.read_csv(r"C:\Users\mateu\PycharmProjects\PwOI\Ćwiczenie3\features_gres.csv")
+df_kamien = pd.read_csv(r"C:\Users\mateu\PycharmProjects\PwOI\Ćwiczenie3\features_kamien.csv")
 
 # Dodanie kategorii etykiet na podstawie początku etykiety
 df_drewno['category'] = 'drewno'
@@ -41,7 +41,7 @@ integer_encoded = integer_encoded.reshape(len(integer_encoded), 1)
 y_onehot = onehot_encoder.fit_transform(integer_encoded)
 
 # Podział danych na zbiór treningowy i testowy
-X_train, X_test, y_train, y_test = train_test_split(X, y_onehot, test_size=0.3, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X, y_onehot, test_size=0.3)
 
 # Wyświetlenie kształtu danych treningowych i testowych
 print("Kształt danych treningowych X_train:", X_train.shape)
