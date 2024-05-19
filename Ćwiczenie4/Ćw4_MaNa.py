@@ -75,6 +75,14 @@ y_test_int = np.argmax(y_test, axis=1)
 # Wyznaczenie macierzy pomyłek
 cm = confusion_matrix(y_test_int, y_pred_int)
 
-print("Macierz pomyłek:\n", cm)
+# Opisy kategorii
+categories = ['D', 'T', 'G', 'K']
+
+# Tworzenie ramki danych z opisami kategorii
+confusion_df = pd.DataFrame(cm, index=categories, columns=categories)
+
+# Wyświetlenie czytelniejszej macierzy pomyłek
+print("Macierz pomyłek:")
+print(confusion_df)
 
 
