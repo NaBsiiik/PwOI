@@ -57,9 +57,11 @@ print("Liczba unikalnych etykiet:", len(unique_labels))
 model = Sequential()
 model.add(Dense(10, input_dim=6, activation='sigmoid'))
 model.add(Dense(4, activation='softmax'))
+
 # Kompilacja modelu
 model.compile(loss='categorical_crossentropy', optimizer="sgd", metrics=['accuracy'])
 model.summary()
+
 # Sekcja 5: Trenowanie sieci
 # Trenowanie modelu
 history = model.fit(X_train, y_train, epochs=100, batch_size=10, shuffle=True)
