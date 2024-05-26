@@ -55,8 +55,8 @@ print("Liczba unikalnych etykiet:", len(unique_labels))
 # Sekcja 4: Tworzenie modelu sieci neuronowej
 # Tworzenie modelu sieci neuronowej
 model = Sequential()
+#model.add(Dense(10, input_dim=6, activation='sigmoid'))
 model.add(Dense(64, input_dim=6, activation='relu'))
-model.add(Dense(32, activation='relu'))
 model.add(Dense(4, activation='softmax'))
 
 # Kompilacja modelu
